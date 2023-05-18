@@ -4,10 +4,11 @@ It helps to avoid the security problem via connection and parse all data you nee
 By the way you need to do some steps:
 
 1. Create a telegram bot using @BotFather (https://t.me/BotFather). And you need a bot token from that.
-2. Add a https://t.me/myidbot to find your chat_id
-3. Install libraries
-4. Run a script
-5. You can change a script for your purposes.
+2. Add a https://t.me/myidbot to find your chat_id.
+3. Choose the website.
+4. Install libraries.
+5. Run a script.
+6. You can change a script for your purposes.
 
 Idea:
 If you have got a 403 issue for connection to parse something, script open a website by Chrome driver, then make a screenshot and save it as png. After that we use a tesseract library 
