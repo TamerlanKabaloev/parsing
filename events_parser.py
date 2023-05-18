@@ -27,7 +27,7 @@ options.add_argument("--force-device-scale-factor=0.9")
 options.add_argument("--disable-blink-features=AutomationControlled")
 
 # Set the website URL
-url = 'https://mosmetro.ru/passengers/information/works'
+url = 'YOUR TARGET WEBSITE'
 
 # Set the directory to save text results
 results_dir = 'text_results'
