@@ -1,4 +1,4 @@
-# parsing
+# Website parsing
 The script is made for the 403 connection problem with request, selenium libraries in python. 
 It helps to avoid the security problem via connection and parse all data you need from any websites.
 By the way you need to do some steps:
